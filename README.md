@@ -8,17 +8,6 @@ This repository contains a collection of research papers and technical notes cov
 
 The main objective is to understand the underlying principles, architectural designs, and computational mechanisms of various machine learning models.
 
-## 🧠 Research Categories
-
-| Category | Topics |
-|---|---|
-| Reinforcement Learning | A3C, DQN |
-| Graph Neural Networks | GCN, GAE, Graph Attention Transformer |
-| Generative AI | GAN, VAE, DDPM, Stable Diffusion, Diffusion Transformer |
-| Computer Vision | ViT, DINO, SegFormer |
-| Attention Mechanisms | Attention, Linear Attention, RoPE |
-| Transformer Architecture | ViT, SegFormer, Diffusion Transformer |
-
 ## 🎯 Learning Objectives
 
 - Understand the mathematical foundations of deep learning architectures.
@@ -57,7 +46,7 @@ This repository will be continuously updated with additional research papers, mo
 **Study → Understand → Implement → Benchmark → Apply**
 
 
-
+## 📚 Articles
 
 | Paper Title | URL | Category | Model Summary |
 |---|---|---|---|
