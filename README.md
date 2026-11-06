@@ -1,5 +1,64 @@
 # Journal-club
 
+---
+
+## 📚 About This Repository
+
+This repository contains a collection of research papers and technical notes covering fundamental and advanced deep learning architectures.
+
+The main objective is to understand the underlying principles, architectural designs, and computational mechanisms of various machine learning models.
+
+## 🧠 Research Categories
+
+| Category | Topics |
+|---|---|
+| Reinforcement Learning | A3C, DQN |
+| Graph Neural Networks | GCN, GAE, Graph Attention Transformer |
+| Generative AI | GAN, VAE, DDPM, Stable Diffusion, Diffusion Transformer |
+| Computer Vision | ViT, DINO, SegFormer |
+| Attention Mechanisms | Attention, Linear Attention, RoPE |
+| Transformer Architecture | ViT, SegFormer, Diffusion Transformer |
+
+## 🎯 Learning Objectives
+
+- Understand the mathematical foundations of deep learning architectures.
+- Explore differences between CNN, GNN, and Transformer-based models.
+- Study attention mechanisms and their computational complexity.
+- Understand generative modeling approaches, including GANs, VAEs, and Diffusion Models.
+- Explore reinforcement learning algorithms and policy optimization.
+- Analyze how different architectures can be applied to real-world biomedical and computational biology problems.
+
+## 🔬 Research Interests
+
+- Single-cell RNA Sequencing (scRNA-seq)
+- Spatial Transcriptomics
+- Next-Generation Sequencing (NGS)
+- Computational Genomics
+- Deep Learning for Biomedical Imaging
+- AI-driven Biological Data Analysis
+
+## 🛠️ Technical Stack
+
+| Field | Technologies |
+|---|---|
+| Programming | Python, R, SQL |
+| Deep Learning | PyTorch, TensorFlow |
+| Machine Learning | Scikit-learn, XGBoost |
+| Single-cell Analysis | Scanpy, AnnData, Seurat |
+| Visualization | Matplotlib, Seaborn, Plotly |
+| Development | Jupyter Notebook, VS Code, Linux |
+
+---
+
+## 📈 Continuous Learning
+
+This repository will be continuously updated with additional research papers, model architectures, mathematical concepts, and implementation notes.
+
+**Study → Understand → Implement → Benchmark → Apply**
+
+
+
+
 | Paper Title | URL | Category | Model Summary |
 |---|---|---|---|
 | A3C | [Link](https://drive.google.com/file/d/1h0khSTUof28k9XbOrB6kEX4-1zWASRCv/view?usp=drive_link) | RL | Asynchronous Actor-Critic algorithm that trains multiple agents in parallel to improve policy learning efficiency. |
