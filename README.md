@@ -4,7 +4,7 @@
 |---|---|---|---|
 | A3C | [Link](https://drive.google.com/file/d/1h0khSTUof28k9XbOrB6kEX4-1zWASRCv/view?usp=drive_link) | RL | Asynchronous Actor-Critic algorithm that trains multiple agents in parallel to improve policy learning efficiency. |
 | DQN | [Link](https://drive.google.com/file/d/1e4VDsLJsyOS2Bih6sK35zPxmKwqZsQMm/view?usp=drive_link) | RL | Combines deep neural networks with Q-learning to estimate action values and learn optimal policies. |
-| Graph Auto Encoder (GAE) | [Link](https://drive.google.com/file/d/1pVLx1W0A4zXnbrbcs7TUFLJLowupMb5W/view?usp=drive_link) | GNN / Generative AI | Learns low-dimensional graph representations by encoding graph structures and reconstructing adjacency relationships. |
+| GAE | [Link](https://drive.google.com/file/d/1pVLx1W0A4zXnbrbcs7TUFLJLowupMb5W/view?usp=drive_link) | GNN / Generative AI | Learns low-dimensional graph representations by encoding graph structures and reconstructing adjacency relationships. |
 | Diffusion Transformer | [Link](https://drive.google.com/file/d/1xpCqBsLZslC-C9y5wkAkSwQcKNuoTgcP/view?usp=drive_link) | Generative AI / Transformer | Integrates Transformer architectures into diffusion models to generate data through iterative denoising. |
 | Segformer | [Link](https://drive.google.com/file/d/16A22wAOdcVlnAbHyK6CeQ5bHg-7x9Q56/view?usp=drive_link) | Image Recognition / Segmentation / Transformer | Uses a hierarchical Transformer encoder and lightweight MLP decoder for efficient semantic segmentation. |
 | Graph Attention Transformer | [Link](https://drive.google.com/file/d/10_AtoRtw6n6pxKSa1Gqk9XKwOW3HmzSG/view?usp=drive_link) | GNN / Attention | Combines graph neural networks and self-attention to capture relationships between nodes and their neighborhoods. |
