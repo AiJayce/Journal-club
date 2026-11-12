@@ -66,3 +66,5 @@ This repository will be continuously updated with additional research papers, mo
 | VAE | [Link](https://drive.google.com/file/d/1IVWABgzZEgzwxrWu0o6Yp5DYe3NIL4Ha/view?usp=drive_link) | Generative AI / Representation Learning | Learns a probabilistic latent representation and reconstructs data through an encoder-decoder architecture. |
 | GCN | [Link](https://drive.google.com/file/d/171U8qWOYVU68hoFE6xH_rnNIkVN6cY8D/view?usp=drive_link) | GNN | Learns node representations by aggregating and propagating information from neighboring nodes. |
 | ViT | [Link](https://drive.google.com/file/d/1zxvo7B-wbXyBZZ0RdXt3npxEZPx5TiiL/view?usp=drive_link) | Image Recognition / Transformer | Divides images into patches and processes them as tokens using a Transformer encoder. |
+| GNN | [Link](https://drive.google.com/file/d/19J7m49Tn7baw6X72p12Dnuok4K_1-OOQ/view?usp=sharing) | Graph Network | GNN is a deep learning model that learns structural representations of nodes and graphs by iteratively aggregating information from neighboring nodes based on graph connectivity. |
+
