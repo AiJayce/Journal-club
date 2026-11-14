@@ -71,6 +71,6 @@ This repository will be continuously updated with additional research papers, mo
 
 ## 📚 Bioinformatics Articles
 
-| Paper Title | URL | Category |
-|---|---|---|
-| Single-cell ATAC multimodal | [Link](https://drive.google.com/file/d/1QBqCTlsT-uuD_w9MRTG6mHo6uTrgMVJT/view?usp=drive_link) | Cancer | 
+| Paper Title | URL | Category | Summary |
+|---|---|---|---|
+| Single-cell ATAC multimodal | [Link](https://drive.google.com/file/d/1QBqCTlsT-uuD_w9MRTG6mHo6uTrgMVJT/view?usp=drive_link) | Cancer | Pan-cancer single-cell multimodal profiling reveals gene regulatory networks linking intrinsic cellular states to environmental influences. |
