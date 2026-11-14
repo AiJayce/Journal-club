@@ -46,7 +46,7 @@ This repository will be continuously updated with additional research papers, mo
 **Study → Understand → Implement → Benchmark → Apply**
 
 
-## 📚 Articles
+## 📚 AI Articles
 
 | Paper Title | URL | Category | Model Summary |
 |---|---|---|---|
@@ -68,3 +68,9 @@ This repository will be continuously updated with additional research papers, mo
 | ViT | [Link](https://drive.google.com/file/d/1zxvo7B-wbXyBZZ0RdXt3npxEZPx5TiiL/view?usp=drive_link) | Image Recognition / Transformer | Divides images into patches and processes them as tokens using a Transformer encoder. |
 | GNN | [Link](https://drive.google.com/file/d/19J7m49Tn7baw6X72p12Dnuok4K_1-OOQ/view?usp=sharing) | Graph Network | GNN is a deep learning model that learns structural representations of nodes and graphs by iteratively aggregating information from neighboring nodes based on graph connectivity. |
 
+
+## 📚 Bioinformatics Articles
+
+| Paper Title | URL | Category |
+|---|---|---|---|
+| Single-cell ATAC multimodal | [Link](https://drive.google.com/file/d/1QBqCTlsT-uuD_w9MRTG6mHo6uTrgMVJT/view?usp=drive_link) | Cancer | 
