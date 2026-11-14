@@ -72,5 +72,5 @@ This repository will be continuously updated with additional research papers, mo
 ## 📚 Bioinformatics Articles
 
 | Paper Title | URL | Category |
-|---|---|---|---|
+|---|---|---|
 | Single-cell ATAC multimodal | [Link](https://drive.google.com/file/d/1QBqCTlsT-uuD_w9MRTG6mHo6uTrgMVJT/view?usp=drive_link) | Cancer | 
